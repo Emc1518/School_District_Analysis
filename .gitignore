@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+adding .DS_Store to gitignore.
