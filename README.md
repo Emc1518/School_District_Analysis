@@ -4,17 +4,18 @@
  Purpose of this analysis is to determine.. 
  
  ## **Results**
+ To explain the findings of the analysis the following questions will be answered:
  
- - How is the district summary affected?
+ 1. How is the district summary affected?
  The district summary is affected...
  
- - How is the school summary affected?
+ 2. How is the school summary affected?
 The school summary is affected.. 
 
- - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+ 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 Replacing the ninth graders' math and reading scores 
 
- - How does replacing the ninth-grade scores affect the following:
+ 4. How does replacing the ninth-grade scores affect the following:
 
 - Math and reading scores by grade
 Math and reading scores by grade are affected because
@@ -26,4 +27,8 @@ Math and reading scores by grade are affected because
 - Scores by school type
 
 ## **Summary**
- Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+Four notable changes that occured in the analysis were the following:
+1. ?
+2. ??
+3. ???
+4. ????
