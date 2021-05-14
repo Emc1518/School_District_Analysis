@@ -29,12 +29,15 @@ Replacing the ninth graders' math and reading scores caused Thomas High School t
   The math and reading scores in each grade were not visibly affected, however it should be noted that the 9th graders' at Thomas High School had the highest grades   in the district.   
 
 - Scores by school spending
-  The scores by school spending does not change because the 
+
+  The small change mentioned above in the average math and reading percentages could be seen in school spending data, however it drop in score average did not affect the amount of per student spending by Thomas High School 
 
 - Scores by school size
+
   The overall passing percentage by school size is not changed by removing the 9th graders' scores.
 
 - Scores by school type
+
   Scores by school type are not affected by removing the 9th graders' scores.
 
 ## **Summary**
