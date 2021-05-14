@@ -36,7 +36,12 @@ Thomas High School
 
 ## **Summary**
 Four notable changes that occured in the analysis were the following:
-1. ?
-2. ??
-3. ???
-4. ????
+
+1. Thomas High School's ranking fell by eliminating the 9th grader's scores and it was no longer in the top 5 schools in the district.
+
+2. Because the scores of the 9th graders at Thomas High School were removed, it caused all the 9th grader's scores to drop.
+
+3. Thomas High School is more affected by removing the 9th graders' scores than the district data is. 
+
+4. The 9th graders' scores make a difference in the school's overall grade average and the scores of the other grades (10th - 12th) were not high enough to keep Thomas High School in the top 5. 
+
