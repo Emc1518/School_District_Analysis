@@ -16,15 +16,17 @@
  
  2. How is the school summary affected?
  
-The school summary is hardly affected because the math and reading scores of Thomas High School drop
+Only the data of Thomas High School is affected because the math and reading scores fell. 
 
  3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-Replacing the ninth graders' math and reading scores 
+
+Replacing the ninth graders' math and reading scores caused Thomas High School to fall out of the top 5 highest graded schools. 
 
  4. How does replacing the ninth-grade scores affect the following:
 
 - Math and reading scores by grade
-Math and reading scores by grade are affected because
+
+Thomas High School 
 
 - Scores by school spending
 
