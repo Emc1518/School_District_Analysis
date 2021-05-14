@@ -8,14 +8,15 @@
  
  1. How is the district summary affected?
  
- There is not a notable change in the data because there is only a 0.06% difference in the math scores between the original analysis (first image) and the new analysis (second image).
+ There is not a notable change to the district summary because average math scores at Thomas High School fell by only 0.06%. This difference in the math scores between the original analysis (first image) and the new analysis (second image) can be seen below.
  
  ![Screen Shot 2021-05-13 at 10 50 59 PM](https://user-images.githubusercontent.com/81889167/118215396-77c0de80-b43f-11eb-9cdd-cebbcfbbb608.png)
 ![Screen Shot 2021-05-13 at 11 01 32 PM](https://user-images.githubusercontent.com/81889167/118215418-7e4f5600-b43f-11eb-91a6-f95b29294df9.png)
 .
  
  2. How is the school summary affected?
-The school summary is affected.. 
+ 
+The school summary is hardly affected because the math and reading scores of Thomas High School drop
 
  3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 Replacing the ninth graders' math and reading scores 
