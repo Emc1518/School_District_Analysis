@@ -7,7 +7,8 @@
  To explain the findings of the new analysis the following questions will be answered:
  
  1. How is the district summary affected?
- There is not a notable change in the data because there is only a 0.06% difference between the original analysis (first image) and the new analysis (second image).
+ 
+ There is not a notable change in the data because there is only a 0.06% difference in the math scores between the original analysis (first image) and the new analysis (second image).
  
  ![Screen Shot 2021-05-13 at 10 50 59 PM](https://user-images.githubusercontent.com/81889167/118215396-77c0de80-b43f-11eb-9cdd-cebbcfbbb608.png)
 ![Screen Shot 2021-05-13 at 11 01 32 PM](https://user-images.githubusercontent.com/81889167/118215418-7e4f5600-b43f-11eb-91a6-f95b29294df9.png)
