@@ -30,7 +30,7 @@ Replacing the ninth graders' math and reading scores caused Thomas High School t
 
 - Scores by school spending
 
-  The small change mentioned above in the average math and reading percentages could be seen in school spending data, however it drop in score average did not affect the amount of per student spending by Thomas High School 
+  The small change mentioned above in the average math and reading percentages of the new analysis could be seen in the school spending data, however the drop in score average did not affect the amount of per student spending by Thomas High School.
 
 - Scores by school size
 
