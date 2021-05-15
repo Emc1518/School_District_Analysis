@@ -24,7 +24,7 @@ Replacing the ninth graders' math and reading scores caused Thomas High School t
 
  **4. How does replacing the ninth-grade scores affect the following:**
 
--**Math and reading scores by grade**
+- **Math and reading scores by grade**
 
   The math and reading scores in each grade were not visibly affected, however it should be noted that the 9th graders' at Thomas High School had the highest grades   in the district.   
 
